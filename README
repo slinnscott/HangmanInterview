@@ -1,0 +1,7 @@
+This hangman game is done in the Terminal. 
+
+The Source code is listed under src/hangman, the executable classes are listed under ./hangman. 
+All of this code is done in Java, so the commands to run them from the command line will be just Java hangman/Hangman for the executables, or javac ./hangman/Hangman.java
+
+If you have any questions, feel free to let me know. Thanks so much for taking the time to read through this. 
+Scott
